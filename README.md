@@ -44,6 +44,3 @@ pip install -r requirements.txt
 ```
 python app.py
 ```
-## Contributors
-- <a href="https://github.com/akshaykoganur">Akshay Koganur</a>
-- <a href="https://github.com/Avi8010">Avinash Maharnavar</a>
